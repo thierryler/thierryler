@@ -1,4 +1,4 @@
-### Thierry Leriche-Dessirier
+# Thierry Leriche-Dessirier
 
 ## I’m currently working on ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" align="left" />
